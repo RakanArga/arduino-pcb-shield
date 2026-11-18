@@ -46,9 +46,10 @@ Power: every module takes VCC from the Uno's 5V pin and GND from the Uno's GND p
 
 | Connector | Pin 1 | Pin 2 | Pin 3 |
 |---|---|---|---|
-| J5 Buzzer | VCC | I/O (D8) | GND |
-| J7 SW-420 | DO (D9) | GND | VCC |
+| J5 Buzzer | VCC | I/O (D13) | GND |
+| J7 SW-420 | DO (D10) | GND | VCC |
 | J6 MAX4466 | OUT (A0) | GND | VCC |
+| LED| D9 | GND |
 
 Check these orders against the printed labels on your own modules, because the pin order differs between manufacturers.
 
