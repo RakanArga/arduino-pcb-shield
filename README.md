@@ -5,7 +5,10 @@ Created to fulfill an assignment for *Rangkaian Listrik dan Elektronika* (Electr
 ## Overview
 
 The beacon watches for an earthquake or a call for help. An SW-420 module detects vibration and a MAX4466 microphone module picks up loud sound. When either one triggers, the Arduino sounds a buzzer and flashes a red LED so people nearby can locate the device.
+
+
 <img width="1724" height="931" alt="image" src="https://github.com/user-attachments/assets/8f2c3bb4-8d73-4c52-b83e-cbe1ec2fbbe0" />
+
 <img width="1724" height="934" alt="image" src="https://github.com/user-attachments/assets/ea448af1-0d04-4a81-a113-7e05bf082ed8" />
 
 
