@@ -45,3 +45,7 @@ Power: every module takes VCC from the Uno's 5V pin and GND from the Uno's GND p
 | J6 MAX4466 | OUT (A0) | GND | VCC |
 
 Check these orders against the printed labels on your own modules, because the pin order differs between manufacturers.
+
+## References & Images
+<img width="1000" height="703" alt="image" src="https://github.com/user-attachments/assets/ec3fcdf7-1125-478f-85f4-23006fa95989" />
+LINK: https://aihg.drugros-spb.org/arduino-uno-schematic-dimension-carte-arduino-uno/
